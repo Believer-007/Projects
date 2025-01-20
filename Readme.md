@@ -1,5 +1,5 @@
 # GitHub Portfolio
-Welcome to my Git portfolio!  
+Welcome to my Git portfolio !  
 
 ## About Me 
 
